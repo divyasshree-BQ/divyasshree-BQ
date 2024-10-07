@@ -4,6 +4,7 @@
 
  - see my portfolio at [here](https://bit.ly/portfolioDivy)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
+ - Here's my second Github account [Divyn](https://github.com/Divyn/)
 
 ## Languages
 
