@@ -2,7 +2,7 @@
 
 ## I Love Building Demos 💙
 
- - see my portfolio at [here](https://divyn.github.io/)
+ - see my blog [here](http://cryptogrammar.xyz/)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
  - Here's my second Github account [Divyn](https://github.com/Divyn/)
 
@@ -25,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
-![Divyasshree's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasshree-bq&show_icons=true&theme=radical)
 
 
 
