@@ -2,9 +2,9 @@
 
 ## I Love Building Demos 💙
 
- - see my blog [here](http://cryptogrammar.xyz/)
+ - see my independent publication on trading systems [here](http://cryptogrammar.xyz/)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
- - Here's my second Github account [Divyn](https://github.com/Divyn/)
+ - Here's my second GitHub account [Divyn](https://github.com/Divyn/)
 
 ## Languages
 
