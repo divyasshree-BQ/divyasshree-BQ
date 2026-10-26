@@ -2,7 +2,7 @@
 
 ## I Love Building Demos 💙
 
- - Non-custodial RWA baskets buy with 1 click [chaotic.markets](chaotic.markets_
+ - Non-custodial RWA baskets buy with 1 click [chaotic.markets](chaotic.markets)
  - Here's my second GitHub account [Divyn](https://github.com/Divyn/)
 
 ## Languages
